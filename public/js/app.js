@@ -1,4 +1,4 @@
-console.log("javascript is love");
+//console.log("javascript is love");
 
 const weatherform = document.querySelector("form");
 const search = document.querySelector("input");
